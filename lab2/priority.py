@@ -39,9 +39,9 @@ def priorityScheduling(proc, n):
 	
 if __name__ =="__main__":
 	
-	proc = [[5, 18, 3],
+	proc = [[1, 18, 3],
 			[2, 2, 5],
-			[6, 7, 1]]
+			[3, 7, 1]]
 	n = 3
 	priorityScheduling(proc, n)
 	

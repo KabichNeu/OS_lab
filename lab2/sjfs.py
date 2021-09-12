@@ -65,8 +65,8 @@ def findavgTime(processes, n):
 	
 if __name__ =="__main__":
 	
-	proc = [[3, 6, 8], [2, 7, 1],
-			[4, 5, 1], [8, 6, 5]]
+	proc = [[1, 6, 8], [2, 7, 1],
+			[3, 5, 1], [4, 6, 5]]
 	n = 4
 	findavgTime(proc, n)
 	
